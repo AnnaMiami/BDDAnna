@@ -1,0 +1,6 @@
+idea/
+target/
+*.iml
+.DS_Store
+#gitignore file should be added to the project BEFORE tracking the project with git
+#git rm -p --cached <folder or file names to remove unwanted folders or files retroactivelt
